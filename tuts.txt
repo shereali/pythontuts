@@ -1,0 +1,37 @@
+stringData = "ABCDEFGHIJKL"
+stringData[0]
+'A'
+stringData[1]
+'B'
+stringData[2]
+'C'
+stringData[:2]
+'AB'
+stringData[2:]
+
+'CDEFGHIJKL'
+stringData[:2]
+'AB'
+stringData[2:5]
+'CDE'
+stringData[::2]
+'ACEGIK'
+stringData[::-1]
+'LKJIHGFEDCBA'
+stringData[::-2]
+'LJHFDB'
+starting point suru hobe 0 include hoe ex: 01234567. stop er starting point suru hobe 0 bad die ex: 1234567
+
+11:32 PM
+myName[0:12]
+'poly hossain'
+myName[0:11:12]
+'p'
+myName[0:10:11]
+'p'
+myName[0:11]
+'poly hossai'
+myName[0::10]
+'pi'
+myName[0::11]
+'pn'
